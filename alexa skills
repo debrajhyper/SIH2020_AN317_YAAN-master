@@ -1,0 +1,1567 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "yaan app",
+            "intents": [
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "HelloWorldIntent",
+                    "slots": [],
+                    "samples": [
+                        "hello",
+                        "how are you",
+                        "say hi world",
+                        "say hi",
+                        "hi",
+                        "say hello world",
+                        "say hello"
+                    ]
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
+                },
+                {
+                    "name": "openyaan",
+                    "slots": [],
+                    "samples": [
+                        "please open yaan"
+                    ]
+                },
+                {
+                    "name": "packages",
+                    "slots": [],
+                    "samples": [
+                        "show me some good places",
+                        "please show me the tour packages"
+                    ]
+                },
+                {
+                    "name": "romantic",
+                    "slots": [],
+                    "samples": [
+                        "romantic"
+                    ]
+                },
+                {
+                    "name": "family",
+                    "slots": [],
+                    "samples": [
+                        "family "
+                    ]
+                },
+                {
+                    "name": "adventure",
+                    "slots": [],
+                    "samples": [
+                        " adventure"
+                    ]
+                },
+                {
+                    "name": "religious",
+                    "slots": [],
+                    "samples": [
+                        "religious "
+                    ]
+                },
+                {
+                    "name": "nature",
+                    "slots": [],
+                    "samples": [
+                        "nature "
+                    ]
+                },
+                {
+                    "name": "wildlife",
+                    "slots": [],
+                    "samples": [
+                        "wildlife "
+                    ]
+                },
+                {
+                    "name": "education",
+                    "slots": [],
+                    "samples": [
+                        " education"
+                    ]
+                },
+                {
+                    "name": "goa",
+                    "slots": [],
+                    "samples": [
+                        "goa"
+                    ]
+                },
+                {
+                    "name": "manali",
+                    "slots": [],
+                    "samples": [
+                        "manali"
+                    ]
+                },
+                {
+                    "name": "andaman",
+                    "slots": [],
+                    "samples": [
+                        "andaman"
+                    ]
+                },
+                {
+                    "name": "kerala",
+                    "slots": [],
+                    "samples": [
+                        "kerala"
+                    ]
+                },
+                {
+                    "name": "himachal",
+                    "slots": [],
+                    "samples": [
+                        "himachal"
+                    ]
+                },
+                {
+                    "name": "rajasthan",
+                    "slots": [],
+                    "samples": [
+                        "rajasthan"
+                    ]
+                },
+                {
+                    "name": "sikkim",
+                    "slots": [],
+                    "samples": [
+                        "sikkim"
+                    ]
+                },
+                {
+                    "name": "jammuandkashmir",
+                    "slots": [],
+                    "samples": [
+                        "jammu and kashmir"
+                    ]
+                },
+                {
+                    "name": "chardham",
+                    "slots": [],
+                    "samples": [
+                        "chardham"
+                    ]
+                },
+                {
+                    "name": "kedarnath",
+                    "slots": [],
+                    "samples": [
+                        "kedarnath"
+                    ]
+                },
+                {
+                    "name": "meenakhsitemple",
+                    "slots": [],
+                    "samples": [
+                        "meenakhsi temple"
+                    ]
+                },
+                {
+                    "name": "ooty",
+                    "slots": [],
+                    "samples": [
+                        "ooty"
+                    ]
+                },
+                {
+                    "name": "lakshadweep",
+                    "slots": [],
+                    "samples": [
+                        "lakhshadweep"
+                    ]
+                },
+                {
+                    "name": "madhyapradesh",
+                    "slots": [],
+                    "samples": [
+                        "madhya pradesh"
+                    ]
+                },
+                {
+                    "name": "Uttarakhand",
+                    "slots": [],
+                    "samples": [
+                        "uttarakhand"
+                    ]
+                },
+                {
+                    "name": "Westbengal",
+                    "slots": [],
+                    "samples": [
+                        "West Bengal"
+                    ]
+                },
+                {
+                    "name": "Tajmohal",
+                    "slots": [],
+                    "samples": [
+                        "tajmohal"
+                    ]
+                },
+                {
+                    "name": "hampi",
+                    "slots": [],
+                    "samples": [
+                        "hampi"
+                    ]
+                },
+                {
+                    "name": "bannerghata",
+                    "slots": [],
+                    "samples": [
+                        "bannerghata"
+                    ]
+                },
+                {
+                    "name": "tajmahal",
+                    "slots": [],
+                    "samples": [
+                        "tajmahal",
+                        "guide me about taj mahal",
+                        "take a tour of tajmahal",
+                        "Tell me something about tajmahal"
+                    ]
+                },
+                {
+                    "name": "alexahelp",
+                    "slots": [],
+                    "samples": [
+                        "help alexa",
+                        "emergency",
+                        "need of emergency",
+                        "alexa sos help"
+                    ]
+                },
+                {
+                    "name": "medical",
+                    "slots": [],
+                    "samples": [
+                        "accident",
+                        "medical emergency"
+                    ]
+                },
+                {
+                    "name": "hospital",
+                    "slots": [],
+                    "samples": [
+                        "good hospitals nearby",
+                        "connect me to hospital",
+                        "medical help",
+                        "nearest hospital"
+                    ]
+                },
+                {
+                    "name": "police",
+                    "slots": [],
+                    "samples": [
+                        "stuct in fight",
+                        "personal security",
+                        "police help"
+                    ]
+                },
+                {
+                    "name": "visa",
+                    "slots": [],
+                    "samples": [
+                        "visaexpired",
+                        "visahelp"
+                    ]
+                },
+                {
+                    "name": "passport",
+                    "slots": [],
+                    "samples": [
+                        "passport help",
+                        "passport help required"
+                    ]
+                },
+                {
+                    "name": "friend",
+                    "slots": [],
+                    "samples": [
+                        "find my friend location",
+                        "get me a friend nearby"
+                    ]
+                },
+                {
+                    "name": "india",
+                    "slots": [],
+                    "samples": [
+                        "get to india",
+                        "tell me something about India"
+                    ]
+                },
+                {
+                    "name": "delhi",
+                    "slots": [],
+                    "samples": [
+                        "tell me something about delhi"
+                    ]
+                },
+                {
+                    "name": "mumbai",
+                    "slots": [],
+                    "samples": [
+                        "place mumbai",
+                        "Tell me something about mumbai"
+                    ]
+                },
+                {
+                    "name": "bookings",
+                    "slots": [],
+                    "samples": [
+                        "let me know my booking",
+                        "my bookings"
+                    ]
+                },
+                {
+                    "name": "pastbooking",
+                    "slots": [],
+                    "samples": [
+                        "last places",
+                        "last booking ",
+                        "previous booking"
+                    ]
+                },
+                {
+                    "name": "upcomingbookings",
+                    "slots": [],
+                    "samples": [
+                        "further places to visit",
+                        "how much to go",
+                        "how many places left",
+                        "upcoming booking"
+                    ]
+                },
+                {
+                    "name": "remainder",
+                    "slots": [],
+                    "samples": [
+                        "remind me",
+                        "save a remainder of place"
+                    ]
+                },
+                {
+                    "name": "weather",
+                    "slots": [],
+                    "samples": [
+                        "live weather",
+                        "weather ",
+                        "tell me about todays weather"
+                    ]
+                },
+                {
+                    "name": "northeast",
+                    "slots": [],
+                    "samples": [
+                        "north east",
+                        "northeast",
+                        "tell me something about north east"
+                    ]
+                },
+                {
+                    "name": "Cherrapunji",
+                    "slots": [],
+                    "samples": [
+                        "cherrapunji",
+                        "cherrapunji place"
+                    ]
+                },
+                {
+                    "name": "food",
+                    "slots": [],
+                    "samples": [
+                        "something to eat",
+                        "feeling hungry"
+                    ]
+                },
+                {
+                    "name": "malls",
+                    "slots": [],
+                    "samples": [
+                        "shopping ",
+                        "nearest malls"
+                    ]
+                },
+                {
+                    "name": "language",
+                    "slots": [],
+                    "samples": [
+                        "language translate",
+                        "please translate language"
+                    ]
+                },
+                {
+                    "name": "monuments",
+                    "slots": [],
+                    "samples": [
+                        "monument",
+                        "tell me about monuments"
+                    ]
+                },
+                {
+                    "name": "accident",
+                    "slots": [],
+                    "samples": [
+                        "met with an accident"
+                    ]
+                },
+                {
+                    "name": "purchase",
+                    "slots": [],
+                    "samples": [
+                        "want to purchase",
+                        "purchase"
+                    ]
+                },
+                {
+                    "name": "music",
+                    "slots": [],
+                    "samples": [
+                        "open music"
+                    ]
+                },
+                {
+                    "name": "relax",
+                    "slots": [],
+                    "samples": [
+                        "relax",
+                        "i want to relax"
+                    ]
+                },
+                {
+                    "name": "movie",
+                    "slots": [],
+                    "samples": [
+                        "movie",
+                        "movies",
+                        "i want to watch movie"
+                    ]
+                },
+                {
+                    "name": "refreshment",
+                    "slots": [],
+                    "samples": [
+                        "need refreshment"
+                    ]
+                },
+                {
+                    "name": "bikeride",
+                    "slots": [],
+                    "samples": [
+                        "bike ride",
+                        "take me to bike ride",
+                        "want a bike ride"
+                    ]
+                },
+                {
+                    "name": "vehiclerent",
+                    "slots": [],
+                    "samples": [
+                        "bike renting",
+                        "car renting"
+                    ]
+                },
+                {
+                    "name": "bikerent",
+                    "slots": [],
+                    "samples": [
+                        "rent for bikes",
+                        "bike rent"
+                    ]
+                },
+                {
+                    "name": "carrent",
+                    "slots": [],
+                    "samples": [
+                        "rent a car",
+                        "car rent"
+                    ]
+                },
+                {
+                    "name": "drinks",
+                    "slots": [],
+                    "samples": [
+                        "wine shop",
+                        "want a drink"
+                    ]
+                }
+            ],
+            "types": []
+        },
+        "dialog": {
+            "intents": [
+                {
+                    "name": "openyaan",
+                    "confirmationRequired": true,
+                    "prompts": {
+                        "confirmation": "Confirm.Intent.308462277951"
+                    },
+                    "slots": []
+                },
+                {
+                    "name": "packages",
+                    "confirmationRequired": true,
+                    "prompts": {
+                        "confirmation": "Confirm.Intent.977047538016"
+                    },
+                    "slots": []
+                },
+                {
+                    "name": "romantic",
+                    "confirmationRequired": true,
+                    "prompts": {
+                        "confirmation": "Confirm.Intent.898873956119"
+                    },
+                    "slots": []
+                },
+                {
+                    "name": "family",
+                    "confirmationRequired": true,
+                    "prompts": {
+                        "confirmation": "Confirm.Intent.1440481686674"
+                    },
+                    "slots": []
+                },
+                {
+                    "name": "adventure",
+                    "confirmationRequired": true,
+                    "prompts": {
+                        "confirmation": "Confirm.Intent.792001025641"
+                    },
+                    "slots": []
+                },
+                {
+                    "name": "religious",
+                    "confirmationRequired": true,
+                    "prompts": {
+                        "confirmation": "Confirm.Intent.653529807364"
+                    },
+                    "slots": []
+                },
+                {
+                    "name": "nature",
+                    "confirmationRequired": true,
+                    "prompts": {
+                        "confirmation": "Confirm.Intent.114127324506"
+                    },
+                    "slots": []
+                },
+                {
+                    "name": "wildlife",
+                    "confirmationRequired": true,
+                    "prompts": {
+                        "confirmation": "Confirm.Intent.1279154436514"
+                    },
+                    "slots": []
+                },
+                {
+                    "name": "education",
+                    "confirmationRequired": true,
+                    "prompts": {
+                        "confirmation": "Confirm.Intent.1231317075713"
+                    },
+                    "slots": []
+                },
+                {
+                    "name": "goa",
+                    "confirmationRequired": true,
+                    "prompts": {
+                        "confirmation": "Confirm.Intent.961883885227"
+                    },
+                    "slots": []
+                },
+                {
+                    "name": "manali",
+                    "confirmationRequired": true,
+                    "prompts": {
+                        "confirmation": "Confirm.Intent.1553135700876"
+                    },
+                    "slots": []
+                },
+                {
+                    "name": "andaman",
+                    "confirmationRequired": true,
+                    "prompts": {
+                        "confirmation": "Confirm.Intent.1087980947224"
+                    },
+                    "slots": []
+                },
+                {
+                    "name": "kerala",
+                    "confirmationRequired": true,
+                    "prompts": {
+                        "confirmation": "Confirm.Intent.916113334877"
+                    },
+                    "slots": []
+                },
+                {
+                    "name": "himachal",
+                    "confirmationRequired": true,
+                    "prompts": {
+                        "confirmation": "Confirm.Intent.67965240950"
+                    },
+                    "slots": []
+                },
+                {
+                    "name": "rajasthan",
+                    "confirmationRequired": true,
+                    "prompts": {
+                        "confirmation": "Confirm.Intent.1423002028471"
+                    },
+                    "slots": []
+                },
+                {
+                    "name": "sikkim",
+                    "confirmationRequired": true,
+                    "prompts": {
+                        "confirmation": "Confirm.Intent.847032391226"
+                    },
+                    "slots": []
+                },
+                {
+                    "name": "jammuandkashmir",
+                    "confirmationRequired": true,
+                    "prompts": {
+                        "confirmation": "Confirm.Intent.889926639980"
+                    },
+                    "slots": []
+                },
+                {
+                    "name": "chardham",
+                    "confirmationRequired": true,
+                    "prompts": {
+                        "confirmation": "Confirm.Intent.1430128729216"
+                    },
+                    "slots": []
+                },
+                {
+                    "name": "kedarnath",
+                    "confirmationRequired": true,
+                    "prompts": {
+                        "confirmation": "Confirm.Intent.943662107491"
+                    },
+                    "slots": []
+                },
+                {
+                    "name": "meenakhsitemple",
+                    "confirmationRequired": true,
+                    "prompts": {
+                        "confirmation": "Confirm.Intent.1465913265620"
+                    },
+                    "slots": []
+                },
+                {
+                    "name": "ooty",
+                    "confirmationRequired": true,
+                    "prompts": {
+                        "confirmation": "Confirm.Intent.1029930241517"
+                    },
+                    "slots": []
+                },
+                {
+                    "name": "lakshadweep",
+                    "confirmationRequired": true,
+                    "prompts": {
+                        "confirmation": "Confirm.Intent.534000523382"
+                    },
+                    "slots": []
+                },
+                {
+                    "name": "madhyapradesh",
+                    "confirmationRequired": true,
+                    "prompts": {
+                        "confirmation": "Confirm.Intent.959385101102"
+                    },
+                    "slots": []
+                },
+                {
+                    "name": "Uttarakhand",
+                    "confirmationRequired": true,
+                    "prompts": {
+                        "confirmation": "Confirm.Intent.750294911305"
+                    },
+                    "slots": []
+                },
+                {
+                    "name": "Westbengal",
+                    "confirmationRequired": true,
+                    "prompts": {
+                        "confirmation": "Confirm.Intent.70489395878"
+                    },
+                    "slots": []
+                },
+                {
+                    "name": "Tajmohal",
+                    "confirmationRequired": true,
+                    "prompts": {
+                        "confirmation": "Confirm.Intent.733712144657"
+                    },
+                    "slots": []
+                },
+                {
+                    "name": "hampi",
+                    "confirmationRequired": true,
+                    "prompts": {
+                        "confirmation": "Confirm.Intent.842227322909"
+                    },
+                    "slots": []
+                },
+                {
+                    "name": "bannerghata",
+                    "confirmationRequired": true,
+                    "prompts": {
+                        "confirmation": "Confirm.Intent.1204214397642"
+                    },
+                    "slots": []
+                },
+                {
+                    "name": "tajmahal",
+                    "confirmationRequired": true,
+                    "prompts": {
+                        "confirmation": "Confirm.Intent.876748954085"
+                    },
+                    "slots": []
+                },
+                {
+                    "name": "alexahelp",
+                    "confirmationRequired": true,
+                    "prompts": {
+                        "confirmation": "Confirm.Intent.455436473047"
+                    },
+                    "slots": []
+                },
+                {
+                    "name": "medical",
+                    "confirmationRequired": true,
+                    "prompts": {
+                        "confirmation": "Confirm.Intent.131807281248"
+                    },
+                    "slots": []
+                },
+                {
+                    "name": "hospital",
+                    "confirmationRequired": true,
+                    "prompts": {
+                        "confirmation": "Confirm.Intent.664078313796"
+                    },
+                    "slots": []
+                },
+                {
+                    "name": "police",
+                    "confirmationRequired": true,
+                    "prompts": {
+                        "confirmation": "Confirm.Intent.1435920247158"
+                    },
+                    "slots": []
+                },
+                {
+                    "name": "visa",
+                    "confirmationRequired": true,
+                    "prompts": {
+                        "confirmation": "Confirm.Intent.838446292931"
+                    },
+                    "slots": []
+                },
+                {
+                    "name": "passport",
+                    "confirmationRequired": true,
+                    "prompts": {
+                        "confirmation": "Confirm.Intent.1237311550944"
+                    },
+                    "slots": []
+                },
+                {
+                    "name": "friend",
+                    "confirmationRequired": true,
+                    "prompts": {
+                        "confirmation": "Confirm.Intent.1137044974454"
+                    },
+                    "slots": []
+                },
+                {
+                    "name": "india",
+                    "confirmationRequired": true,
+                    "prompts": {
+                        "confirmation": "Confirm.Intent.333379356180"
+                    },
+                    "slots": []
+                },
+                {
+                    "name": "delhi",
+                    "confirmationRequired": true,
+                    "prompts": {
+                        "confirmation": "Confirm.Intent.305628953195"
+                    },
+                    "slots": []
+                },
+                {
+                    "name": "mumbai",
+                    "confirmationRequired": true,
+                    "prompts": {
+                        "confirmation": "Confirm.Intent.1021659260154"
+                    },
+                    "slots": []
+                },
+                {
+                    "name": "bookings",
+                    "confirmationRequired": true,
+                    "prompts": {
+                        "confirmation": "Confirm.Intent.907123497781"
+                    },
+                    "slots": []
+                },
+                {
+                    "name": "pastbooking",
+                    "confirmationRequired": true,
+                    "prompts": {
+                        "confirmation": "Confirm.Intent.1319208500486"
+                    },
+                    "slots": []
+                },
+                {
+                    "name": "upcomingbookings",
+                    "confirmationRequired": true,
+                    "prompts": {
+                        "confirmation": "Confirm.Intent.1073368145657"
+                    },
+                    "slots": []
+                },
+                {
+                    "name": "remainder",
+                    "confirmationRequired": true,
+                    "prompts": {
+                        "confirmation": "Confirm.Intent.763766095788"
+                    },
+                    "slots": []
+                },
+                {
+                    "name": "weather",
+                    "confirmationRequired": true,
+                    "prompts": {
+                        "confirmation": "Confirm.Intent.1091031305380"
+                    },
+                    "slots": []
+                },
+                {
+                    "name": "northeast",
+                    "confirmationRequired": true,
+                    "prompts": {
+                        "confirmation": "Confirm.Intent.437179138840"
+                    },
+                    "slots": []
+                },
+                {
+                    "name": "Cherrapunji",
+                    "confirmationRequired": true,
+                    "prompts": {
+                        "confirmation": "Confirm.Intent.852133523282"
+                    },
+                    "slots": []
+                },
+                {
+                    "name": "food",
+                    "confirmationRequired": true,
+                    "prompts": {
+                        "confirmation": "Confirm.Intent.88449695995"
+                    },
+                    "slots": []
+                },
+                {
+                    "name": "malls",
+                    "confirmationRequired": true,
+                    "prompts": {
+                        "confirmation": "Confirm.Intent.203046889157"
+                    },
+                    "slots": []
+                },
+                {
+                    "name": "language",
+                    "confirmationRequired": true,
+                    "prompts": {
+                        "confirmation": "Confirm.Intent.1548443834089"
+                    },
+                    "slots": []
+                },
+                {
+                    "name": "monuments",
+                    "confirmationRequired": true,
+                    "prompts": {
+                        "confirmation": "Confirm.Intent.1355900341391"
+                    },
+                    "slots": []
+                },
+                {
+                    "name": "accident",
+                    "confirmationRequired": true,
+                    "prompts": {
+                        "confirmation": "Confirm.Intent.775081563829"
+                    },
+                    "slots": []
+                },
+                {
+                    "name": "purchase",
+                    "confirmationRequired": true,
+                    "prompts": {
+                        "confirmation": "Confirm.Intent.1169913471529"
+                    },
+                    "slots": []
+                },
+                {
+                    "name": "music",
+                    "confirmationRequired": true,
+                    "prompts": {
+                        "confirmation": "Confirm.Intent.49277812975"
+                    },
+                    "slots": []
+                },
+                {
+                    "name": "relax",
+                    "confirmationRequired": true,
+                    "prompts": {
+                        "confirmation": "Confirm.Intent.199921646903"
+                    },
+                    "slots": []
+                },
+                {
+                    "name": "movie",
+                    "confirmationRequired": true,
+                    "prompts": {
+                        "confirmation": "Confirm.Intent.915916311755"
+                    },
+                    "slots": []
+                },
+                {
+                    "name": "refreshment",
+                    "confirmationRequired": true,
+                    "prompts": {
+                        "confirmation": "Confirm.Intent.1433801446223"
+                    },
+                    "slots": []
+                },
+                {
+                    "name": "bikeride",
+                    "confirmationRequired": true,
+                    "prompts": {
+                        "confirmation": "Confirm.Intent.1244582577745"
+                    },
+                    "slots": []
+                },
+                {
+                    "name": "vehiclerent",
+                    "confirmationRequired": true,
+                    "prompts": {
+                        "confirmation": "Confirm.Intent.864009283866"
+                    },
+                    "slots": []
+                },
+                {
+                    "name": "bikerent",
+                    "confirmationRequired": true,
+                    "prompts": {
+                        "confirmation": "Confirm.Intent.100575019328"
+                    },
+                    "slots": []
+                },
+                {
+                    "name": "carrent",
+                    "confirmationRequired": true,
+                    "prompts": {
+                        "confirmation": "Confirm.Intent.1084562084154"
+                    },
+                    "slots": []
+                },
+                {
+                    "name": "drinks",
+                    "confirmationRequired": true,
+                    "prompts": {
+                        "confirmation": "Confirm.Intent.1265353927387"
+                    },
+                    "slots": []
+                }
+            ],
+            "delegationStrategy": "ALWAYS"
+        },
+        "prompts": [
+            {
+                "id": "Confirm.Intent.308462277951",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "Hello sir how can i help you?"
+                    }
+                ]
+            },
+            {
+                "id": "Confirm.Intent.977047538016",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "Here you can get this type of tour packages romantic family adventure religious nature wildlife education which one you want to choose?"
+                    }
+                ]
+            },
+            {
+                "id": "Confirm.Intent.1187194752774",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "here are some desire places for this tour like goa andaman manali which one you select sir?"
+                    }
+                ]
+            },
+            {
+                "id": "Confirm.Intent.1440481686674",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "here are some good places like kerala himachal rajasthan which one you select sir?"
+                    }
+                ]
+            },
+            {
+                "id": "Confirm.Intent.792001025641",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "here are the best places are himachal sikkim jammu and kashmir which one you select sir?"
+                    }
+                ]
+            },
+            {
+                "id": "Confirm.Intent.653529807364",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "here you can get to visit like chardham kedarnath menakshi temple where you want to go sir?"
+                    }
+                ]
+            },
+            {
+                "id": "Confirm.Intent.114127324506",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "here you can go to visit like ooty lakhsawdeep and madhyapradesh where you want to visit ?"
+                    }
+                ]
+            },
+            {
+                "id": "Confirm.Intent.1279154436514",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "here you can go for a tour in uttarakhand westbengal and rajasthan which one you select sir?"
+                    }
+                ]
+            },
+            {
+                "id": "Confirm.Intent.1231317075713",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "here you can to visit tajmahal humpy and bannerghata which one you select sir?"
+                    }
+                ]
+            },
+            {
+                "id": "Confirm.Intent.898873956119",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "here are some desire places for this tour like goa andaman manali which one you select sir?"
+                    }
+                ]
+            },
+            {
+                "id": "Confirm.Intent.961883885227",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "a state on India's West coast, is a former Portuguese colony with a rich history.Goan culture has been shaped mainly by the Hindu and Catholic population."
+                    }
+                ]
+            },
+            {
+                "id": "Confirm.Intent.1553135700876",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "Manali, at the northern end of the Kullu Valley in Himachal Pradesh is a hill station in the Himalayas.Situated on the Beas river and near its source, it is a popular tourist spot for Indians in summer and a magical, snow-covered place in winter."
+                    }
+                ]
+            },
+            {
+                "id": "Confirm.Intent.1087980947224",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": " a large group of islands in the Bay of Bengal. Though they are a part of India politically, they are closer to Myanmar and Thailand than to the Indian mainland. "
+                    }
+                ]
+            },
+            {
+                "id": "Confirm.Intent.916113334877",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": " a state in Southern India is known as a tropical paradise of waving palms and wide sandy beaches. It is a narrow strip of coastal territory that slopes down the Western Ghats in a cascade of lush green vegetation, and reaches to the Arabian sea."
+                    }
+                ]
+            },
+            {
+                "id": "Confirm.Intent.67965240950",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "Himachal Pradesh is the northernmost state proper in north-western Republic of India, and offers much for those looking to experience the West Himalayas."
+                    }
+                ]
+            },
+            {
+                "id": "Confirm.Intent.1423002028471",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "Rajasthan is a state in the northwest of India. It is mainly arid and its western border is adjacent to Pakistan. The main attraction for travellers is the vast Thar Desert and one of the oldest mountain ranges in the world, the Aravallis."
+                    }
+                ]
+            },
+            {
+                "id": "Confirm.Intent.847032391226",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "a state in East India in the Himalayan foot hills also bordering China, Nepal and Bhutan.The name has been coined from the words 'Su','Him'i.e. beautiful home. It is alos famous for it's tourist spots. As majority of income made by the place is from tourist."
+                    }
+                ]
+            },
+            {
+                "id": "Confirm.Intent.1430128729216",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "Char Dham  are the names of four pilgrimage places in India that are widely revered by Hindus. They are Badrinath, Dwarka, Jagannath Puri, and Rameshwaram."
+                    }
+                ]
+            },
+            {
+                "id": "Confirm.Intent.943662107491",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "is one of the four Char Dham Hindu pilgrim centers in Uttarakhand, India. The town and the temple are open from May to October only to avoid heavy snowfall in winter. Specific dates are as per the Hindu Calendar and one needs to check for specific dates for each year.  "
+                    }
+                ]
+            },
+            {
+                "id": "Confirm.Intent.1465913265620",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "Madurai  is the third largest city in the Indian state of Tamilnadu.Meenakhshi is one of the best temple in madurai"
+                    }
+                ]
+            },
+            {
+                "id": "Confirm.Intent.1029930241517",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "Ooty, short for Ootacamund, is a popular hill resort in the state of Tamil Nadu in Southern India.The name Udhakamandala is derived from the TODA word othakal-mund which means house in mountains. Udhaka Mandala also means  Water Abode in Sanskrit. It is also the hill station famous for pleasant weather conditions and a huge lake. Nearest from Mysore one hundred twenty eight kilometres."
+                    }
+                ]
+            },
+            {
+                "id": "Confirm.Intent.534000523382",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "Lakshadweep, formerly the Laccadives, is a group of islands situated some four hundred km off India's west coast in the Arabian sea. They are India's only coral atolls and geologically a part of the same chain as the Maldives."
+                    }
+                ]
+            },
+            {
+                "id": "Confirm.Intent.959385101102",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": " is a state in the plains of India. The name Madhya Pradesh means central region, and derives from its geographical position. It is one of the few states of India that is completely surrounded by other states, having neither a border with another country nor a coastline."
+                    }
+                ]
+            },
+            {
+                "id": "Confirm.Intent.750294911305",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "is a stunningly beautiful state in the Himalayan North of India. It is broken up into a western part, named Garhwal, and an eastern part named Kumaon."
+                    }
+                ]
+            },
+            {
+                "id": "Confirm.Intent.70489395878",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "is a state in India's East region. Here you can get to visit hill station of darjeeling,"
+                    }
+                ]
+            },
+            {
+                "id": "Confirm.Intent.733712144657",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "The Taj Mahal is an immense mausoleum of white marble. It is in agra"
+                    }
+                ]
+            },
+            {
+                "id": "Confirm.Intent.842227322909",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "Hampi was the imperial capital of Vijayanagar, a fourteenth  century empire. The ruins are spread out over an area of twenty six sqaure km. A Forgotten Empire  by Robert Sewell is an interesting book which describes the rise and fall of the Vijayanagar empire."
+                    }
+                ]
+            },
+            {
+                "id": "Confirm.Intent.1204214397642",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "Bannerghatta Biological Park, which is National Park is in Karnataka, about twenty two km from Bangalore. On Tuesdays, Bannerghatta National Park remains closed."
+                    }
+                ]
+            },
+            {
+                "id": "Confirm.Intent.889926639980",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "the winter capital, Safest and the most modern city in the whole state. It is also known as Heaven in the World. This place is famous for bike riders, it has awesome roads going highways and offroading. Entire location is in the Himalays. This place has its own tradition."
+                    }
+                ]
+            },
+            {
+                "id": "Confirm.Intent.876748954085",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "Taj Mahal, also the Crown Of Ivory, built on entire marble at the banks of river Yamuna. It is located in the beautiful city of Agra. Comissioned at Sixteen thirty two by Mughals. house the tomb of his favourite wife, Mumtaz Mahal, it also houses the tomb of Shah Jahan himself. The tomb is the centrepiece of a seventeen hectare forty two acre complex, which includes a mosque and a guest house, and is set in formal gardens bounded on three sides by a crenellated wall."
+                    }
+                ]
+            },
+            {
+                "id": "Confirm.Intent.455436473047",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "how can I help you. Please share your problem."
+                    }
+                ]
+            },
+            {
+                "id": "Confirm.Intent.131807281248",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "Calling nearby ambulance, hospital. wait for five minutes."
+                    }
+                ]
+            },
+            {
+                "id": "Confirm.Intent.664078313796",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "We are providing with best medical treatment. Get well soon."
+                    }
+                ]
+            },
+            {
+                "id": "Confirm.Intent.1435920247158",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "We are getting in contact with police nearby. Kindly share your location."
+                    }
+                ]
+            },
+            {
+                "id": "Confirm.Intent.838446292931",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "Getting to the nearest visa office, go through our map."
+                    }
+                ]
+            },
+            {
+                "id": "Confirm.Intent.1237311550944",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "Implementing your request, please go through map for current loation."
+                    }
+                ]
+            },
+            {
+                "id": "Confirm.Intent.1137044974454",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "Getting your friend location, go through the map."
+                    }
+                ]
+            },
+            {
+                "id": "Confirm.Intent.333379356180",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "India, officially the Republic of India  is a country in South Asia. It is the second-most populous country, the seventh-largest country by area, and the most populous democracy in the world."
+                    }
+                ]
+            },
+            {
+                "id": "Confirm.Intent.305628953195",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "Delhi is the Capital of India. Covers around fifteen hundred square kilometres in terms of area. it has many tourist spots like qutub minar and lal quila. "
+                    }
+                ]
+            },
+            {
+                "id": "Confirm.Intent.1021659260154",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "also known as economy capital of india this time of the year do take umbrellas. located at the arabian sea from water body. one of the largest water transport system associated with this place."
+                    }
+                ]
+            },
+            {
+                "id": "Confirm.Intent.907123497781",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "Ok, please let me know more, your past booking or current booking."
+                    }
+                ]
+            },
+            {
+                "id": "Confirm.Intent.1319208500486",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "here we are with list of places you visited last couple of days"
+                    }
+                ]
+            },
+            {
+                "id": "Confirm.Intent.1073368145657",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "here are the list of places you have saved and yet to visit"
+                    }
+                ]
+            },
+            {
+                "id": "Confirm.Intent.763766095788",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "we are accepting your request, kindly set date and time"
+                    }
+                ]
+            },
+            {
+                "id": "Confirm.Intent.1091031305380",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "Today it is rainly, temperature is around twenty seven degree celcius"
+                    }
+                ]
+            },
+            {
+                "id": "Confirm.Intent.437179138840",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "North east or seven sisters include Sikkim, Assam, Manipur, Meghalaya, Tripura, himachal. Area comes under lower range of himalayas and garo and khasi hills. Beautiful place to visit and don't forget to take umbrella"
+                    }
+                ]
+            },
+            {
+                "id": "Confirm.Intent.852133523282",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "Forest area in meghalaya. nearest airport is in shillong. you can take a road transport. and do take your umbrellas because this place is famous for rain."
+                    }
+                ]
+            },
+            {
+                "id": "Confirm.Intent.88449695995",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "we are getting to your nearest restaurants. kindly walk through or order something."
+                    }
+                ]
+            },
+            {
+                "id": "Confirm.Intent.203046889157",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "we are getting a list of nearest malls."
+                    }
+                ]
+            },
+            {
+                "id": "Confirm.Intent.1548443834089",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "conforming youe request, redirecting to the voice translator."
+                    }
+                ]
+            },
+            {
+                "id": "Confirm.Intent.1355900341391",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "India is one of the most beautiful countries in the world and is best known for its colourful culture and fascinating heritage. Its grand monuments, like the Taj Mahal act as strong pillars of the rich and deep history that India possesses. From their splendid architecture to a strong legacy, the historical monuments of India speak volumes. Most of these Indian monuments were primarily built under the regime of Rajputana, Dravidian and Mughal emperors. The monuments of India are speaking stones of the glory of its rulers and the brilliance of artisans in ancient India. Due to the incredible beauty of India and the constant efforts of the government in maintaining the heritage sites, India tourism has flourished rapidly witnessing an increase in the number of travellers from all around."
+                    }
+                ]
+            },
+            {
+                "id": "Confirm.Intent.775081563829",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "Calling nearby ambulance. "
+                    }
+                ]
+            },
+            {
+                "id": "Confirm.Intent.1169913471529",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "getting you to nearby supermarket"
+                    },
+                    {
+                        "type": "PlainText",
+                        "value": "what do you want to purchase"
+                    }
+                ]
+            },
+            {
+                "id": "Confirm.Intent.49277812975",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "redirecting to Amazon music"
+                    }
+                ]
+            },
+            {
+                "id": "Confirm.Intent.199921646903",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "listen to music or watch movie. I can redirect you to Amazon prime or Amazon music"
+                    }
+                ]
+            },
+            {
+                "id": "Confirm.Intent.915916311755",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "proceeding your request, opening Amazon Prime"
+                    }
+                ]
+            },
+            {
+                "id": "Confirm.Intent.1433801446223",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "taking you to nearest coffee shop"
+                    }
+                ]
+            },
+            {
+                "id": "Confirm.Intent.1244582577745",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "getting to the best road for bike ride nearby."
+                    }
+                ]
+            },
+            {
+                "id": "Confirm.Intent.864009283866",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "kindly mention bike rent or car rent"
+                    }
+                ]
+            },
+            {
+                "id": "Confirm.Intent.100575019328",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "getting info about it. Here are some numbers for the service"
+                    }
+                ]
+            },
+            {
+                "id": "Confirm.Intent.1084562084154",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "gathering info getting you to nearby service."
+                    }
+                ]
+            },
+            {
+                "id": "Confirm.Intent.1265353927387",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "taking to the nearest wine shop or pub or bar"
+                    }
+                ]
+            }
+        ]
+    }
+}
