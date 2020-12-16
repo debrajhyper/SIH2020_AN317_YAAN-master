@@ -1,0 +1,217 @@
+.table-fixed tbody {
+  height: 300px;
+  overflow-y: auto;
+  width: 100%;
+}
+
+.table-fixed thead, .table-fixed tbody, .table-fixed tr, .table-fixed td, .table-fixed th {
+  display: block;
+}
+
+.table-fixed tbody td, .table-fixed tbody th, .table-fixed thead > tr > th {
+  float: left;
+  position: relative;
+}
+
+#covid19card {
+  position: relative;
+  right: 300px;
+  left: -20%;
+  top: 30px;
+  width: 40%;
+  margin-right: 460px;
+  border-color: rgba(248,248,248,0);
+  margin-bottom: 20px;
+}
+
+#covid19card {
+  /*position: relative;*/
+  /*left: -20%;*/
+}
+
+#Confirmed {
+  position: relative;
+  top: 60%;
+  color: rgb(255,17,16);
+  font-family: Poppins, sans-serif;
+  border-color: rgba(255,17,16,0);
+  letter-spacing: 2px;
+  font-size: 12px;
+}
+
+#Active {
+  position: relative;
+  top: 60%;
+  color: rgb(16,114,255);
+  font-family: Poppins, sans-serif;
+  border-color: rgba(255,17,16,0);
+  letter-spacing: 2px;
+  font-size: 12px;
+}
+
+#Recovered {
+  position: relative;
+  top: 60%;
+  color: rgb(84,199,30);
+  font-family: Poppins, sans-serif;
+  border-color: rgba(255,17,16,0);
+  letter-spacing: 2px;
+  font-size: 12px;
+}
+
+#Deaths {
+  position: relative;
+  top: 60%;
+  color: rgb(143,143,143);
+  font-family: Poppins, sans-serif;
+  border-color: rgba(255,17,16,0);
+  letter-spacing: 2px;
+  font-size: 12px;
+}
+
+#confirmed {
+  position: relative;
+  top: 60%;
+  color: rgb(255,17,16);
+  font-family: Poppins, sans-serif;
+  border-color: rgba(255,17,16,0);
+  letter-spacing: 2px;
+  font-size: 12px;
+}
+
+#active {
+  position: relative;
+  top: 60%;
+  color: rgb(16,114,255);
+  font-family: Poppins, sans-serif;
+  border-color: rgba(255,17,16,0);
+  letter-spacing: 2px;
+  font-size: 15px;
+}
+
+#recovered {
+  position: relative;
+  top: 60%;
+  color: rgb(84,199,30);
+  font-family: Poppins, sans-serif;
+  border-color: rgba(255,17,16,0);
+  letter-spacing: 2px;
+  font-size: 15px;
+}
+
+#deaths {
+  position: relative;
+  top: 60%;
+  color: rgb(143,143,143);
+  font-family: Poppins, sans-serif;
+  border-color: rgba(255,17,16,0);
+  letter-spacing: 2px;
+  font-size: 15px;
+}
+
+#india {
+  position: relative;
+  /*right: -300px;*/
+  left: 20%;
+  top: -200px;
+  width: 40%;
+  border-color: rgba(248,248,248,0);
+  margin-bottom: -200px;
+  margin-right: 450px;
+  background-color: #ffffff;
+}
+
+.table-responsive.d-xl-flex {
+  /*position: absolute;*/
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  /*align-content: center;*/
+  left: 50%;
+  display: flex;
+  transform: transform(-50%);
+}
+
+#confirmed-1 {
+  position: relative;
+  top: 108%;
+  color: rgba(255,17,16,0.7);
+  font-family: Poppins, sans-serif;
+  border-color: rgba(255,17,16,0);
+  letter-spacing: 1px;
+  font-size: 12px!important;
+  /*font-weight: 100;*/
+}
+
+#confirmed-2 {
+  position: relative;
+  top: 108%;
+  color: rgba(16,114,255,0.7);
+  font-family: Poppins, sans-serif;
+  border-color: rgba(255,17,16,0);
+  letter-spacing: 1px;
+  font-size: 12px!important;
+  /*font-weight: 100;*/
+}
+
+deltarecovered {
+  position: relative;
+  top: 108%;
+  color: rgba(84,199,30,0.7);
+  font-family: Poppins, sans-serif;
+  border-color: rgba(255,17,16,0);
+  letter-spacing: 1px;
+  font-size: 12px!important;
+  font-weight: 100;
+}
+
+#deaths-1 {
+  position: relative;
+  top: 108%;
+  color: rgba(143,143,143,0.7);
+  font-family: Poppins, sans-serif;
+  border-color: rgba(255,17,16,0);
+  letter-spacing: 1px;
+  font-size: 12px!important;
+  font-weight: 100;
+}
+
+#deltaconfirmed {
+  position: relative;
+  /*top: 108%;*/
+  right: 4px;
+  color: rgba(255,17,16,0.7);
+  font-family: Poppins, sans-serif;
+  border-color: rgba(255,17,16,0);
+  letter-spacing: 1px;
+  font-size: 10px!important;
+  /*font-weight: 100;*/
+}
+
+#recovered-1 {
+}
+
+#deltarecovered {
+  position: relative;
+  /*top: 108%;*/
+  right: 4px;
+  color: rgba(84,199,30,0.7);
+  font-family: Poppins, sans-serif;
+  border-color: rgba(255,17,16,0);
+  letter-spacing: 1px;
+  font-size: 10px!important;
+  /*font-weight: 100;*/
+}
+
+#deltadeaths {
+  position: relative;
+  /*top: 115%;*/
+  right: 4px;
+  color: rgba(143,143,143,0.7);
+  font-family: Poppins, sans-serif;
+  border-color: rgba(255,17,16,0);
+  letter-spacing: 1px;
+  font-size: 10px!important;
+  /*font-weight: 100;*/
+}
+
