@@ -50,3 +50,5 @@ Team Members  :     <ul>
     AWS - S3
 
 <h1>Solution</h1> 
+
+<image src="Website\assets\img\solutions.jfif">
