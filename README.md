@@ -22,4 +22,9 @@ Ministry :  Amazon Web Services
 
 Team Members  : Ashish Abhishek Minz (Team Lead), Debraj Karmakar, Debajyoti Ghosh, Tarpan Das, Vishal Kashyap, Yachna Raj
 
-
+Gagan Ganapathy
+Niharika Shrivastava
+Pradeep Gangwar
+Saicharan Reddy
+Shreyansh Dwivedi
+Vinit Mankar
