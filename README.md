@@ -1,6 +1,6 @@
 # SIH2020_AN317_YAAN-master
 
-Problem statement:  Tourism simplified through voice   
+Problem statement :       Tourism simplified through voice   
                         
     Alexa is Amazon’s cloud base voice service, that helps users interact with brands, data, and business logic through voice.
                         
