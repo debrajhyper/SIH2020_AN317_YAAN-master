@@ -7,7 +7,8 @@ Problem statement:
     Use Alexa to innovate, and build the next generation of interfaces for tourists in India.
                         
     Your solution should help solve pain points of tourists coming to India like - voice forums to crowd source destination reviews, 
-    GPS based voice navigators to guide tourists at historical sites, SOS and emergency support solutions for local and international travelers, 
-    travel guides with entry prerequisites, government policies, visa needs, and recommendations on seasons to visit.
+    GPS based voice navigators to guide tourists at historical sites, SOS and emergency support solutions for local and 
+    international travelers, travel guides with entry prerequisites, government policies, visa needs, and 
+    recommendations on seasons to visit.
                         
     The Alexa based solution should be intuitive to use also cater to the physically challenged travelers in India.
