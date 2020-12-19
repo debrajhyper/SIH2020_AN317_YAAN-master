@@ -45,9 +45,6 @@ Team Members  :     <ul>
     1.  AWS
     2.  Amazon Alexa
 
-<h2>Database</h2>
-
-    AWS - S3
 
 <h1>Solution</h1> 
 
