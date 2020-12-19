@@ -64,3 +64,17 @@ Team Members  :     <ul>
 <h1>Architecture</h1> 
 
 <image src="Website\assets\img\aws_arch.jfif">
+  
+<h1>Conclusion</h1>
+
+      It's been an amazing opportunity to be working with AWS for the "Tourism Simplified Through Voice" PS in Smart India Hackathon 2020 Grand Finale.
+
+      Team YAAN
+      Thanks to all the members : Ashish Minz Debajyoti Ghosh Tarpan Das VISHAL KASHYAP Yachna Raj
+
+
+      SIH was a very good platform to improve our knowledge. We got an opportunity to solve a problem facing our country. In this short period of time, we learn a lot. We work together with us a team to achieve this level I thank our government to organize this mega event
+      Narendra Modi
+
+      Sincere gratitude and thanks to our honourable Sih organizers and nodal centre
+      Abhay Jere Mohit Gambhir, Ph.D. Chirag Oswal
