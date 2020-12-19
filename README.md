@@ -14,7 +14,7 @@ Problem statement :       Tourism simplified through voice
                         
     The Alexa based solution should be intuitive to the physically challenged travelers in India.
 
-Team – Y.A.A.N
+<h1>Team – Y.A.A.N</h1>
 
     Finalist in Smart India Hackathon, 2020
 
