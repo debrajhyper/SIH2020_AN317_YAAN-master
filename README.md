@@ -52,3 +52,15 @@ Team Members  :     <ul>
 <h1>Solution</h1> 
 
 <image src="Website\assets\img\solutions.jfif">
+  
+<h1>Technology Stack</h1> 
+
+<image src="Website\assets\img\dependencies.jfif">
+  
+<h1>Diagram</h1> 
+
+<image src="Website\assets\img\workflow.jfif">
+  
+<h1>Architecture</h1> 
+
+<image src="Website\assets\img\aws_arch.jfif">
