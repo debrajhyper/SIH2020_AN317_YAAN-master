@@ -29,3 +29,23 @@ Team Members  :     <ul>
                         <li>Yachna Raj</li>
                     </ul>
 
+<h1>Technology</h1>
+
+<h2>FrontEnd</h2>
+
+    <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>Bootstrap</li>
+        <li>Jquery</li>
+        <li>Javascript</li>
+        <li>Java</li>
+        <li></li>
+    </ul>
+
+<h2>BackEnd</h2>
+
+    <ul>
+        <li>AWS</li>
+    </ul>
+
