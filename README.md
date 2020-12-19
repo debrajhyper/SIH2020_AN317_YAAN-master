@@ -20,11 +20,12 @@ Team – Y.A.A.N
 
 Ministry :  Amazon Web Services 
 
-Team Members  : Ashish Abhishek Minz (Team Lead), Debraj Karmakar, Debajyoti Ghosh, Tarpan Das, Vishal Kashyap, Yachna Raj
+Team Members  :     <ul>
+                        <li>Ashish Abhishek Minz (Team Lead)</li>
+                        <li>Debraj Karmakar</li>
+                        <li>Debajyoti Ghosh</li>
+                        <li>Tarpan Das</li>
+                        <li>Vishal Kashyap</li>
+                        <li>Yachna Raj</li>
+                    </ul>
 
-Gagan Ganapathy
-Niharika Shrivastava
-Pradeep Gangwar
-Saicharan Reddy
-Shreyansh Dwivedi
-Vinit Mankar
