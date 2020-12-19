@@ -14,12 +14,11 @@ Problem statement :       Tourism simplified through voice
     The Alexa based solution should be intuitive to use also cater to the physically challenged travelers in India.
 
 Team – Y.A.A.N
-       Finalist in Smart India Hackathon, 2020
 
-Ministry : Amazon Web Services 
+    Finalist in Smart India Hackathon, 2020
 
-Team Members:
+Ministry :  Amazon Web Services 
 
-Ashish Abhishek Minz (Team Lead), Debraj Karmakar, Debajyoti Ghosh, Tarpan Das, Vishal Kashyap, Yachna Raj
+Team Members  : Ashish Abhishek Minz (Team Lead), Debraj Karmakar, Debajyoti Ghosh, Tarpan Das, Vishal Kashyap, Yachna Raj
 
 
