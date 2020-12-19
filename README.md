@@ -33,19 +33,18 @@ Team Members  :     <ul>
 
 <h2>FrontEnd</h2>
 
-    <ul>
-        <li>HTML</li>
-        <li>CSS</li>
-        <li>Bootstrap</li>
-        <li>Jquery</li>
-        <li>Javascript</li>
-        <li>Java</li>
-        <li></li>
-    </ul>
+    1.  HTML
+    2.  CSS
+    3.  Bootstrap
+    4.  Jquery
+    5.  Javascript
+    6.  Java
 
 <h2>BackEnd</h2>
 
-    <ul>
-        <li>AWS</li>
-    </ul>
+    1.  AWS
+    2.  Amazon Alexa
 
+<h2>Database</h2>
+
+    AWS - S3
